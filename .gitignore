@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/build
+/.cache
+
+.DS_Store
+npm-debug.log
+
+# custom
+package-lock.json

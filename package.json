@@ -1,0 +1,16 @@
+{
+  "name": "ex-com",
+  "version": "1.0.0",
+  "description": "A helper for exchange node_modules's component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "acmu",
+  "license": "MIT",
+  "dependencies": {
+    "ncp": "^2.0.0",
+    "rimraf": "^3.0.0"
+  }
+}
